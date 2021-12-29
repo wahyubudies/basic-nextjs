@@ -1,0 +1,12 @@
+.header {
+    background: #eaeaea;
+}
+.list {
+    list-style: inline-block;
+    display: flex;   
+    list-style: none; 
+    justify-content: flex-end;
+}
+.item {
+    padding:15px 10px;
+}

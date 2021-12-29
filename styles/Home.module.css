@@ -108,6 +108,13 @@
   margin-left: 0.5rem;
 }
 
+.color-red {
+  color:red;
+  background:#eaeaea;
+  padding:10px;
+  width: 100px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
